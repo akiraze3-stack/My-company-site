@@ -1,1 +1,14 @@
-# My-company-site
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Мой магазин электроники</title>
+</head>
+<body>
+  <h1>Магазин электроники Kaspi.kz</h1>
+  <p>Продаём ноутбуки, смартфоны, аксессуары и бытовую технику.</p>
+  <h2>Контакты</h2>
+  <p>Email: akiraze3@gmail.com</p>
+  <p>Телефон: +7 775 181 58 70</p>
+</body>
+</html>
